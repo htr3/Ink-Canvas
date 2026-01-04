@@ -17,7 +17,7 @@ export function Testimonials() {
       rating: 5,
     },
     {
-      name: "Saumya Oberoi",
+      name: "Tanu Oberoi",
       text: "Professional, clean, and talented. I've been to shops all over the world, and Ink & Iron stands out for their attention to detail and customer service.",
       rating: 5,
     },
