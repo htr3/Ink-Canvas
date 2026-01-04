@@ -104,13 +104,13 @@ export function Home() {
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 max-w-4xl mx-auto">
           <ArtistCard 
-            name="Alex Mercer" 
+            name="Harpal Singh Thakur" 
             role="Lead Artist / Owner" 
             image={artist1} 
             specialties={["Realism", "Black & Grey", "Portrait"]} 
           />
           <ArtistCard 
-            name="Sarah Vance" 
+            name="Harpal Singh Thakur" 
             role="Senior Artist" 
             image={artist2} 
             specialties={["Neo-Traditional", "Color", "Fine Line"]} 

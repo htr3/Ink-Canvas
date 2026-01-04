@@ -7,17 +7,17 @@ export function Testimonials() {
 
   const reviews = [
     {
-      name: "Michael R.",
+      name: "Shailendra Thakur",
       text: "Absolutely the best shop in the city. The hygiene standards are hospital-grade, and the artistry is unmatched. Alex took my vague idea and turned it into a masterpiece.",
       rating: 5,
     },
     {
-      name: "Jessica T.",
+      name: "Vishal Thakur",
       text: "Got my first tattoo here and felt so comfortable. The vibe is edgy but welcoming. Sarah's line work is incredibly clean. Highly recommend!",
       rating: 5,
     },
     {
-      name: "David K.",
+      name: "Saumya Oberoi",
       text: "Professional, clean, and talented. I've been to shops all over the world, and Ink & Iron stands out for their attention to detail and customer service.",
       rating: 5,
     },

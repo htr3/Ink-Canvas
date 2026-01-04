@@ -129,10 +129,10 @@ export function Footer() {
           <div>
             <h4 className="text-white font-bold mb-4 uppercase tracking-wider">Contact</h4>
             <ul className="space-y-2 text-gray-400 text-sm">
-              <li>123 Ink Street, Art District</li>
-              <li>New York, NY 10012</li>
-              <li>+1 (555) 123-4567</li>
-              <li>studio@inkandiron.com</li>
+              <li>123 LIG Street, Indore District</li>
+              <li>Indore, NY 10012</li>
+              <li>+919977416699</li>
+              <li>tattooistharpal@gmail.com</li>
             </ul>
           </div>
 
