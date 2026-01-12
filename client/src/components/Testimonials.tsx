@@ -7,18 +7,18 @@ export function Testimonials() {
 
   const reviews = [
     {
-      name: "Shailendra Thakur",
-      text: "Absolutely the best shop in the city. The hygiene standards are hospital-grade, and the artistry is unmatched. Alex took my vague idea and turned it into a masterpiece.",
+      name: "Sudhir Thakur",
+      text: "A“Honestly, city ki best tattoo shop hai. Hygiene bilkul hospital-grade hai aur artwork next level. Harpal bhai ne mere vague idea ko ek proper masterpiece bana diya.",
       rating: 5,
     },
     {
       name: "Vishal Thakur",
-      text: "Got my first tattoo here and felt so comfortable. The vibe is edgy but welcoming. Sarah's line work is incredibly clean. Highly recommend!",
+      text: "Mera first tattoo yahin se karwaya aur experience kaafi comfortable raha. Vibe edgy hai but welcoming. Harpal Bhai ka line work super clean hai. 100% recommend!",
       rating: 5,
     },
     {
       name: "Tanu Oberoi",
-      text: "Professional, clean, and talented. I've been to shops all over the world, and Ink & Iron stands out for their attention to detail and customer service.",
+      text: "Highly professional, super clean aur insanely talented team. World ke kaafi tattoo studios dekh chuka hoon, but Ink & Iron detail pe focus aur customer service mein sabse alag stand karta ha",
       rating: 5,
     },
   ];

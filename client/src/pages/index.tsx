@@ -213,9 +213,9 @@ export function Gallery() {
 
 export function Services() {
   const services = [
-    { title: "Custom Design", price: "$150/hr", desc: "Unique pieces designed specifically for you. Includes consultation and revisions." },
-    { title: "Flash Tattoo", price: "From $100", desc: "Pre-drawn designs available for walk-ins or quick appointments. Classic styling." },
-    { title: "Cover-ups", price: "$180/hr", desc: "Expert concealment of unwanted tattoos. Requires in-person consultation." },
+    { title: "Custom Design", price: "150/hr", desc: "Unique pieces designed specifically for you. Includes consultation and revisions." },
+    { title: "Flash Tattoo", price: "From 100", desc: "Pre-drawn designs available for walk-ins or quick appointments. Classic styling." },
+    { title: "Cover-ups", price: "180/hr", desc: "Expert concealment of unwanted tattoos. Requires in-person consultation." },
     { title: "Touch-ups", price: "Free*", desc: "First touch-up is free within 3 months of your appointment for our work." },
   ];
 

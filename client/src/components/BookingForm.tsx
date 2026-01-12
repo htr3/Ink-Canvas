@@ -60,7 +60,7 @@ export function BookingForm() {
               <FormItem>
                 <FormLabel className="text-gray-400 uppercase text-xs tracking-wider">Full Name</FormLabel>
                 <FormControl>
-                  <Input placeholder="John Doe" {...field} className="bg-secondary/50 border-white/10 text-white focus:border-primary focus:ring-primary/20 h-12" />
+                  <Input placeholder="Vishal Thakur" {...field} className="bg-secondary/50 border-white/10 text-white focus:border-primary focus:ring-primary/20 h-12" />
                 </FormControl>
                 <FormMessage />
               </FormItem>
@@ -73,7 +73,7 @@ export function BookingForm() {
               <FormItem>
                 <FormLabel className="text-gray-400 uppercase text-xs tracking-wider">Email</FormLabel>
                 <FormControl>
-                  <Input placeholder="john@example.com" {...field} className="bg-secondary/50 border-white/10 text-white focus:border-primary focus:ring-primary/20 h-12" />
+                  <Input placeholder="vishaldream@gmail.com" {...field} className="bg-secondary/50 border-white/10 text-white focus:border-primary focus:ring-primary/20 h-12" />
                 </FormControl>
                 <FormMessage />
               </FormItem>
@@ -89,7 +89,7 @@ export function BookingForm() {
               <FormItem>
                 <FormLabel className="text-gray-400 uppercase text-xs tracking-wider">Phone</FormLabel>
                 <FormControl>
-                  <Input placeholder="(555) 000-0000" {...field} className="bg-secondary/50 border-white/10 text-white focus:border-primary focus:ring-primary/20 h-12" />
+                  <Input placeholder="8982762718" {...field} className="bg-secondary/50 border-white/10 text-white focus:border-primary focus:ring-primary/20 h-12" />
                 </FormControl>
                 <FormMessage />
               </FormItem>
@@ -108,10 +108,10 @@ export function BookingForm() {
                     </SelectTrigger>
                   </FormControl>
                   <SelectContent className="bg-secondary border-white/10 text-white">
-                    <SelectItem value="alex">Alex "Needles" Mercer</SelectItem>
-                    <SelectItem value="sarah">Sarah "Ink" Vance</SelectItem>
-                    <SelectItem value="marcus">Marcus Thorne</SelectItem>
-                    <SelectItem value="any">First Available</SelectItem>
+                    <SelectItem value="alex">Harpal Thakur</SelectItem>
+                    <SelectItem value="sarah">Harpal Thakur</SelectItem>
+                    <SelectItem value="marcus">Harpal Thakur</SelectItem>
+                    <SelectItem value="any">Harpal Thakur</SelectItem>
                   </SelectContent>
                 </Select>
                 <FormMessage />
